@@ -1,0 +1,13 @@
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.csprojAssemblyReference.cache
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfo.cs
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.exe
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.deps.json
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.runtimeconfig.json
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.runtimeconfig.dev.json
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.dll
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.pdb
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.dll
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.pdb
+C:\Users\julio\Desktop\Bootcamp .Net Fundamentos\Aulas\Desafio\Cadastro de Séries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.genruntimeconfig.cache
